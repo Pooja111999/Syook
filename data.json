@@ -1,0 +1,19 @@
+[
+    {
+      "name": "Jack Reacher",
+      "origin": "Bengaluru",
+      "destination": "Mumbai"
+    },
+    {
+      "name": "Alice",
+      "origin": "New York",
+      "destination": "Los Angeles"
+    },
+    {
+      "name": "Bob",
+      "origin": "Chicago",
+      "destination": "San Francisco"
+    }
+
+  ]
+  
